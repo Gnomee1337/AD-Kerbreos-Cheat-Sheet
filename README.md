@@ -47,8 +47,8 @@ Kerberos cheatsheet: https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d
 ```
 
 ### Mimikatz
-https://github.com/gentilkiwi/mimikatz
-2.1.1 (win10 compatible): https://github.com/gentilkiwi/mimikatz/files/4167347/mimikatz_trunk.zip
+- https://github.com/gentilkiwi/mimikatz
+- 2.1.1 (win10 compatible): https://github.com/gentilkiwi/mimikatz/files/4167347/mimikatz_trunk.zip
 ```
 # Run interactively
 mimikatz.exe
